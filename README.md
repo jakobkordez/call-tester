@@ -1,3 +1,7 @@
+> 🚩 This repository is now an archive
+> 
+> Source code has been moved to https://github.com/jakobkordez/ham-core/tree/main/apps/call-tester
+
 # Callsign Checker
 
 An app for checking the format of a callsign and finding the country it belongs to.
